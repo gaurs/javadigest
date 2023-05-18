@@ -1,5 +1,3 @@
-# java digest
-
 a collection of java blogs
 
 - [InfoQ](https://www.infoq.com/java/) - Community
